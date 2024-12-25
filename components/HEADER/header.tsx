@@ -87,7 +87,7 @@ const HEADER = () => {
               href="/client"
               className="block hover:text-gray-300 transition"
             >
-               Server-Side-Data
+               Client-Side-Data
             </Link>
           </li>
           <li>
